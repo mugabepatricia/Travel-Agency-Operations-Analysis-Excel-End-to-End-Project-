@@ -57,6 +57,7 @@ This dashboard provides decision-makers with:
 
 ## Files Included
 - <a href="https://github.com/mugabepatricia/Travel-Agency-Operations-Analysis-Excel-End-to-End-Project-/blob/main/Travel%20Agency%20Operations%20Analysis.xlsx">Travel Agency Dataset</a>
+- <a href="https://github.com/mugabepatricia/Travel-Agency-Operations-Analysis-Excel-End-to-End-Project-/blob/main/Screenshot%202026-04-10%20at%2011.55.48.png">Dashboard Preview</a>
 
 ## How to Use
 1. Download the Excel file
@@ -64,5 +65,4 @@ This dashboard provides decision-makers with:
 3. Use slicers to interact with the dashboard
 
 ## About Me
-
 Aspiring Data Analyst passionate about transforming raw data into actionable insights. Skilled in Excel, data storytelling, and dashboard creation.
