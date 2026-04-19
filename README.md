@@ -26,32 +26,28 @@ From raw data chaos to a structured, interactive dashboard, this project demonst
 * Peak bookings: August 2024 (55 bookings)
 * Lowest: July 2024 (12 bookings)
 * Recovery observed: July 2025 improved to 28 bookings
+  
 🌍 Revenue by Agent
 * Top performer: Karen Sutton – $58,214
 * Lowest performer: Deborah Morgan
+  
 ⭐ Average Rating by Trip Type
 * Highest rated: City Break – 4.14/5
+  
 📍 Top 10 Regions by Bookings
 * Leading destination: Louisiana – 51 bookings
 
-🎛️ Interactive Features
-
+## Interactive Features
 * Slicers for Loyalty Tier and Season
 * Enables dynamic filtering for targeted insights
 
-⸻
-
-💡 Key Insights
-
+## Key Insights
 * Seasonal trends significantly impact booking volumes
 * Certain agents consistently outperform others, indicating opportunities for training or strategy alignment
 * Customer satisfaction is highest for shorter, flexible trips (City Breaks)
 * Regional demand is concentrated, suggesting targeted marketing opportunities
 
-⸻
-
-🚀 Business Impact
-
+## Business Impact
 This dashboard provides decision-makers with:
 
 * Clear visibility into performance trends
@@ -59,24 +55,17 @@ This dashboard provides decision-makers with:
 * A foundation for improving customer experience
 * Strategic direction for regional marketing
 
-⸻
-
-📁 Files Included
+## Files Included
 
 * Cleaned Dataset
 * Excel Dashboard
 * Project Documentation
 
-⸻
-
-🔗 How to Use
-
+## How to Use
 1. Download the Excel file
 2. Open in Microsoft Excel
 3. Use slicers to interact with the dashboard
 
-⸻
-
-👩🏽‍💻 About Me
+## About Me
 
 Aspiring Data Analyst passionate about transforming raw data into actionable insights. Skilled in Excel, data storytelling, and dashboard creation.
