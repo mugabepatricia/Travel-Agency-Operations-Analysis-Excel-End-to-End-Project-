@@ -56,10 +56,7 @@ This dashboard provides decision-makers with:
 * Strategic direction for regional marketing
 
 ## Files Included
-
-* Cleaned Dataset
-* Excel Dashboard
-* Project Documentation
+- <a href="https://github.com/mugabepatricia/Travel-Agency-Operations-Analysis-Excel-End-to-End-Project-/blob/main/Travel%20Agency%20Operations%20Analysis.xlsx">Travel Agency Dataset</a>
 
 ## How to Use
 1. Download the Excel file
